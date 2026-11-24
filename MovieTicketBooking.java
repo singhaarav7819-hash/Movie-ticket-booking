@@ -251,3 +251,23 @@ public class MovieTicketBooking {
         }
     }
 }
+
+
+
+
+// ===== MOVIE TICKET BOOKING =====
+// 1. View seats
+// 2. Book seat
+// 3. Cancel booking
+// 4. View waiting list
+// 5. Exit
+// Enter choice: 1
+
+//         SCREEN THIS WAY
+//      1   2   3   4   5
+//   A  [ ] [ ] [ ] [ ] [ ] 
+//   B  [ ] [ ] [ ] [ ] [ ] 
+//   C  [ ] [ ] [ ] [ ] [ ] 
+//   D  [ ] [ ] [ ] [ ] [ ] 
+//   E  [ ] [ ] [ ] [ ] [ ] 
+// [ ] free   [X] booked   Free seats: 25
